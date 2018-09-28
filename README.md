@@ -1,0 +1,3 @@
+This folder contains all the programs needed for the reproducing of the paper 'A universal framework for fusing semantic information and temporal consistency for background segmentation'. Before one can run the programs properly, please check my conda list for pre-settings.
+
+Our programs are writen in Jupyter notebook. Comments are added in detail. We encourage the reader to run the program for a better understanding of the proposed method.
